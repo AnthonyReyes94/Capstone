@@ -1,12 +1,19 @@
-# Draft Dreams to Court Realities 
+## Draft Dreams to Court Realities 
 
 ##Table of Contents 
+
 [Summary](#summary)
+
 [Motivation](#motivation)
+
 [Data Question](#data-question)
+
 [Tech](#tech-used)
+
 [Data Sources](#data-sources)
+
 [Issues](#issues)
+
 [Conclusion](#conclusion)
 
 ## Summary 
