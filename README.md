@@ -47,6 +47,7 @@ I aim to take these college metrics and analyze their relationship with the same
 
 ## Tech Used
 Python: Webscraping, cleaning data, and to make csv files 
+
 Tableau: Various aggregations and visualization/presentation construction
 
 ## Data Sources
