@@ -74,7 +74,7 @@ Based on the findings of this analysis, it is believed that adhering to the foll
 * Opt for players who have higher WS per Game and PER 
 * Height of at least 6 feet and 6.5 inches and weigh at least 215 lbs
 * If your team is in a position for the first 3 picks, don’t trade down because those are where the players with the highest PERs can be found. However, if you don’t have one of those top 3 coveted picks, finding an efficient NBA prospect is more random than not.  
-* Find players who have position versatility (F-G) who have the size to play near the rim as a Forward but also have ball-handling skills and hit shots from beyond the arc as a Guard. 
+* Find players who have position versatility (F-G) who have the size to play near the rim as a Forward but also possess ball-handling skills and can hit shots from beyond the arc as a Guard. 
 * College team doesn’t play much of a factor in NBA performance metrics
 
 
